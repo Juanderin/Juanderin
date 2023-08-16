@@ -1,16 +1,18 @@
-### Hi there 👋
+## My Depths of Coding 
 
-<!--
-**Juanderin/Juanderin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="readme-imgs/ruby.svg"  width="7%" height="7%">
+<img src="readme-imgs/javascript.svg"  width="7%" height="7%">
+<img src="readme-imgs/rubyonrails.svg"  width="7%" height="7%">
+<img src="readme-imgs/react.svg"  width="7%" height="7%">
+<img src="readme-imgs/redux.svg"  width="7%" height="7%">
+<img src="readme-imgs/postgresql.svg"  width="7%" height="7%">
+<img src="readme-imgs/mongodb.svg"  width="7%" height="7%">
+<img src="readme-imgs/nodedotjs.svg"  width="7%" height="7%">
+<img src="readme-imgs/amazonaws.svg"  width="7%" height="7%">
+<img src="readme-imgs/html5.svg"  width="7%" height="7%">
+<img src="readme-imgs/css3.svg"  width="7%" height="7%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Without runtime as a parameter, how fast does code travel?
+<img src="readme-imgs/lightspeed.png" height="7%">
