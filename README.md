@@ -1,7 +1,7 @@
 ## My Depths of Coding 
 
 ### Without runtime as a parameter, how fast does code travel?
-<a href='https://github.com/Juanderin/LightSpeeds'><img src="readme-imgs/lightspeed.png" height="7%"></a>
+<a href='https://juanderin.github.io/LightSpeeds/'><img src="readme-imgs/lightspeed.png" height="6%"></a>
 
 ### [Projects Utilizing](#pinned)
 
