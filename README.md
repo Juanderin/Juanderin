@@ -3,6 +3,6 @@
 ### Without runtime as a parameter, how fast does code travel?
 <a href='https://juanderin.github.io/LightSpeeds/'><img src="readme-imgs/lightspeed.png" height="6%"></a>
 
-#### Languages and Tools:
+#### In my toolbox
 
  <img src="https://skillicons.dev/icons?i=js,react,redux,ruby,rails,nodejs,expressjs,webpack,html,css,mongodb,postgres,aws,git,&perline=15" />
