@@ -14,7 +14,7 @@ Me Trying to Quicksort My Life
 - Want to collaborate on open source
 - Reside in NYC 🗽
 - Fact: Quantum particles don't like you watching them 👀
-- I know how to refract and perform Goldmann applanation.
+- I know how to refract and perform Goldmann applanation
 - Speak Spanish & English
 
 #### In My Toolbox
