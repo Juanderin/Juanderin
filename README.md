@@ -4,8 +4,6 @@
 Me Trying to Quicksort My Life 
 
 ## AboutMe 
-
-- Here is my [portfolio] containing my projects
 - Im currently navigating data structures
 
 
